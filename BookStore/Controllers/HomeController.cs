@@ -10,6 +10,7 @@ namespace BookStore.Controllers
     {
         public ActionResult Index()
         {
+            //Demo
             return View();
         }
 
